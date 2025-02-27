@@ -30,6 +30,7 @@ Total Records:307974
 ✅ Vehicle Type vs. Accidents – See which types of vehicles are most involved.  
 
 **Dashboard Preview**
+![Dashboard Screenshot](https://github.com/satyarajesh5/Road-Accident-Analysis/blob/main/Screenshot%202025-02-27%20103612.png?raw=true)
 
 Above is a sample view of the dashboard presenting key accident insights.
 
