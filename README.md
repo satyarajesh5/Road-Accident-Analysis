@@ -32,7 +32,10 @@ Total Records:307974
 **Dashboard Preview**
 ![Dashboard Screenshot](https://github.com/satyarajesh5/Road-Accident-Analysis/blob/main/Screenshot%202025-02-27%20103612.png?raw=true)
 
-Above is a sample view of the dashboard presenting key accident insights.
+Above is a sample view of the dashboard presenting key accident insights.  
+
+📂 **Download Dataset:** [Road Accident Data (Google Drive)](https://docs.google.com/spreadsheets/d/1pcDgFm-xjFulRHcN5MWwCckW7xGtsQYS/edit?usp=sharing&ouid=106723331179273756033&rtpof=true&sd=true)
+
 
 **How to Use**
 
